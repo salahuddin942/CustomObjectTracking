@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Object Detection">
+
+        <menu>
+            <item
+                android:id="@+id/object_detection_local_video"
+                android:icon="@drawable/custom_icon"
+                android:title="Click Custom ML KIT Object Detection" />
+        </menu>
+    </item>
+</menu>
